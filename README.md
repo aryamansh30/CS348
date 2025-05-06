@@ -1,6 +1,6 @@
 # JobConnect Admin Panel
 
-## 🔍 Overview
+## Overview
 
 JobConnect is a MERN stack internship/job application management portal that allows users to:
 
@@ -9,19 +9,19 @@ JobConnect is a MERN stack internship/job application management portal that all
 - Dynamically retrieve dropdown options from the database
 - Analyze job trends through summary statistics (average salary, work model distribution)
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Frontend:** React
 - **Backend:** Node.js + Express
 - **Database:** MongoDB (with Mongoose ORM and native queries)
 - **Deployment:** Google Cloud Platform (App Engine + Firebase Hosting)
 
-## 🌐 Live URLs
+## Live URLs
 
 - **Frontend:** [Firebase Hosted App](https://your-firebase-project.web.app)
 - **Backend API:** [App Engine API](https://cs348-458507.uc.r.appspot.com)
 
-## 📊 Features
+## Features
 
 ### Requirement 1: Data Management
 - Interface to add, edit, delete job entries
@@ -37,7 +37,7 @@ JobConnect is a MERN stack internship/job application management portal that all
 ### Indexes
 - Optimized with indexes on: `Date`, `Company`, `Location`, `Work Model`
 
-## 🧠 Course Concepts Implemented
+## Course Concepts Implemented
 
 - ✅ Mongoose ORM for basic CRUD operations
 - ✅ Native MongoDB queries (prepared-style) for report generation
@@ -46,24 +46,14 @@ JobConnect is a MERN stack internship/job application management portal that all
 - ✅ Deployment to GCP (extra credit)
 - ✅ Discussion of isolation level and concurrency included in final demo
 
-## 📁 Folder Structure
 
-```
-/client        # React frontend
-/server        # Express backend
-  ├── routes
-  ├── controllers
-  ├── models
-  └── app.yaml  # GCP deployment config
-```
-
-## 🚀 Deployment Notes
+## Deployment Notes
 
 - Backend: Deployed to **Google Cloud App Engine (Flexible Environment)**
 - Frontend: Deployed to **Firebase Hosting**
 - MongoDB: Connected via **MongoDB Atlas**
 
-## 📄 Setup Instructions
+## Setup Instructions
 
 ```bash
 # Backend
@@ -76,8 +66,7 @@ cd client
 npm install
 npm start
 ```
-
----
+s
 
 ## 👨‍💻 Author
 
