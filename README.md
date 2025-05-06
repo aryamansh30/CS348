@@ -39,12 +39,12 @@ JobConnect is a MERN stack internship/job application management portal that all
 
 ## Course Concepts Implemented
 
-- ✅ Mongoose ORM for basic CRUD operations
-- ✅ Native MongoDB queries (prepared-style) for report generation
-- ✅ Indexes on frequently queried fields
-- ✅ Dynamic UI from live DB data
-- ✅ Deployment to GCP (extra credit)
-- ✅ Discussion of isolation level and concurrency included in final demo
+- Mongoose ORM for basic CRUD operations
+- Native MongoDB queries (prepared-style) for report generation
+- Indexes on frequently queried fields
+- Dynamic UI from live DB data
+- Deployment to GCP (extra credit)
+- Discussion of isolation level and concurrency included in final demo
 
 
 ## Deployment Notes
