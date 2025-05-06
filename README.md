@@ -17,9 +17,7 @@ JobConnect is a MERN stack internship/job application management portal that all
 - **Deployment:** Google Cloud Platform (App Engine + Firebase Hosting)
 
 ## Live URLs
-
-- **Frontend:** [Firebase Hosted App](https://your-firebase-project.web.app)
-- **Backend API:** [App Engine API](https://cs348-458507.uc.r.appspot.com)
+https://cs348-jobconnect-fronten-c9c44.web.app/reports
 
 ## Features
 
@@ -71,5 +69,5 @@ s
 ## 👨‍💻 Author
 
 Aryaman Sharma  
-CS348 Project – Spring 2025  
+CS348 Project
 Purdue University
