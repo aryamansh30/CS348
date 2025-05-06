@@ -64,9 +64,8 @@ cd client
 npm install
 npm start
 ```
-s
 
-## 👨‍💻 Author
+##  Author
 
 Aryaman Sharma  
 CS348 Project
